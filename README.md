@@ -1,4 +1,62 @@
+# What is a LSTM ? 
+------------------
++ The parameters in the figure are the same as the parameters written in the code
+
++ Figures are made by Jaehoon Shim
+
+------------------
+
+![image](https://user-images.githubusercontent.com/71545160/171369810-1b5b77bf-aa9b-4289-931f-dab0b2ea276a.png)
+
+<br>
+<br>
+<br>
+
+------------------
+
+<br>
+<br>
+<br>
+
+![image](https://user-images.githubusercontent.com/71545160/171369856-ecd95a73-5db6-455e-b406-176656010678.png)
+
+<br>
+<br>
+<br>
+
+------------------
+
+<br>
+<br>
+<br>
+
+![image](https://user-images.githubusercontent.com/71545160/171370215-376be51f-622d-4293-b925-184a4540bd3d.png)
+
+<br>
+<br>
+<br>
+
+------------------
+
+<br>
+<br>
+<br>You can also refer to the below sites.
+
+[Refernce sites](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=songblue61&logNo=221853600720)
+
+Above sites represents the LSTM example structure very well.
+
+Below one is one of the examples.
+
+![image](https://user-images.githubusercontent.com/71545160/171370770-9033eb6c-58b9-4f81-af24-3ffc31933960.png)
+
+
+[Refernce sites](https://wegonnamakeit.tistory.com/52)
+
+
 # PyTorch-LSTM-ex
+------------------
+
 PyTorch-LSTM-ex
 
 ## Results of **lstm_ex.py**
